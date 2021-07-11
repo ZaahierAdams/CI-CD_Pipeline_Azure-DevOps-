@@ -1,5 +1,5 @@
 # CI/CD Pipeline in Azure DevOps 
-Continuous Integration/ Continuous Deployment Pipeline configuration in Azure DevOps  for Function Application. 
+YAML Continuous Integration/ Continuous Deployment Pipeline configuration in Azure DevOps  for Function Application. 
 
 ## About
 Consists of two stages 
