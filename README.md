@@ -11,6 +11,8 @@ Consists of two stages
 	- Download Artifact 
  	- Deploys function app 
 
+<img alt="Logos" src="https://i.imgur.com/syLZJO4.png"></img>
+
 ## Configurations 
 You may decide to reconfigure the entire pipeline . 
 However, if you wish to use this pipeline, change ``` azureSubscription``` and ``` appName``` is the ```Deploy``` stage. 
